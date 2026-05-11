@@ -4,21 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        res = ""
-        count = 0
-
-        for ch in s:
-
-            # add '(' only if not outermost
-            if ch == '(':
-                if count > 0:
-                    res += ch
-                count += 1
-
-            # add ')' only if not outermost
-            else:
-                count -= 1
-                if count > 0:
-                    res += ch
-
+        count=0
+        j=0
+        i=0
+        res=""
+        for i in range(len(s)):
+            if s[i]=='(':
+                count=count+1
+            elif s[i]==')':
+                count=count-1
+            
+            if count==0:
+                res+=s[j+1:i]
+                j=i+1
         return res
