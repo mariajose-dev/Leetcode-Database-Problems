@@ -4,28 +4,21 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        parts = []
+        res = ""
         count = 0
-        start = 0
 
-        # split into primitive parts
-        for i in range(len(s)):
+        for ch in s:
 
-            if s[i] == '(':
+            # add '(' only if not outermost
+            if ch == '(':
+                if count > 0:
+                    res += ch
                 count += 1
+
+            # add ')' only if not outermost
             else:
                 count -= 1
-
-            # primitive completed
-            if count == 0:
-                parts.append(s[start:i+1])
-                start = i + 1
-
-        # remove outer parentheses
-        res = ""
-
-        for part in parts:
-            res += part[1:-1]
+                if count > 0:
+                    res += ch
 
         return res
-        
