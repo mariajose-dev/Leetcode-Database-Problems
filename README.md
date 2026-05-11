@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -245,5 +248,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
