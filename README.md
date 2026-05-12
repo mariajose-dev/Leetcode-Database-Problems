@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1652-defuse-the-bomb](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
