@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1046-last-stone-weight) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1652-defuse-the-bomb](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
