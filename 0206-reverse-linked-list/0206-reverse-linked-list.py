@@ -9,20 +9,16 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        lis=[]
-        while head:
-            lis.append(head.val)
-            head=head.next
-        print(lis)
+        prev = None
+        cur = head
 
-        lis.reverse()
-        print(lis)
+        while cur:
 
-        dummy=ListNode(0)
-        temp=dummy
+            nxt = cur.next   # store next node
 
-        for item in lis:
-            temp.next=ListNode(item)
-            temp=temp.next    
-        return dummy.next
-        
+            cur.next = prev  # reverse pointer
+
+            prev = cur       # move prev
+            cur = nxt        # move current
+
+        return prev
