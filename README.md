@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## String
 |  |
