@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
