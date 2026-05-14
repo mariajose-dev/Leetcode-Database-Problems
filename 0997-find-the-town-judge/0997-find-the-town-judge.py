@@ -5,33 +5,17 @@ class Solution(object):
         :type trust: List[List[int]]
         :rtype: int
         """
-        lis = []
+        indegree = [0] * (n + 1) #who voted
+        outdegree = [0] * (n + 1) #who got vote
 
-        for i in range(1, n+1):
-            lis.append(i)
+        for x in trust:
 
-        if n == 1:
-            return 1
+            outdegree[x[0]] += 1
+            indegree[x[1]] += 1
 
-        for x, y in trust:
+        for i in range(1, n + 1):
 
-            if x in lis:
-                lis.remove(x)
-
-        # no candidate
-        if len(lis) == 0:
-            return -1
-
-        judge = lis[0]
-
-        count = 0
-
-        for x, y in trust:
-
-            if y == judge:
-                count += 1
-
-            if count == n - 1:
-                return judge
+            if indegree[i] == n - 1 and outdegree[i] == 0:
+                return i
 
         return -1
