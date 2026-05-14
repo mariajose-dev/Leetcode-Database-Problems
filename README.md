@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0313-super-ugly-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
