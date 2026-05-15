@@ -330,17 +330,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
