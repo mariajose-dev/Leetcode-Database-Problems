@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
