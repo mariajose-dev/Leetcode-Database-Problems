@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: int
         """
         cost.sort(reverse=True)
-        print(cost)
         sum=0
         for i in range(1,len(cost)+1):
             if i%3==0:
