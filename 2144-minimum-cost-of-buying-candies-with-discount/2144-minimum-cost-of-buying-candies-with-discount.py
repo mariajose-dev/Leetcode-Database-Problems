@@ -1,0 +1,15 @@
+class Solution(object):
+    def minimumCost(self, cost):
+        """
+        :type cost: List[int]
+        :rtype: int
+        """
+        cost.sort(reverse=True)
+        print(cost)
+        sum=0
+        for i in range(1,len(cost)+1):
+            if i%3==0:
+                continue
+            sum+=cost[i-1]
+
+        return sum
