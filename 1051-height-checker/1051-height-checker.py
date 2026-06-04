@@ -10,6 +10,6 @@ class Solution(object):
         heights.sort()
         co=0
         for i in range(len(heights)):
-            if exp[i]!=heights[i]:
+            if exp[i] is not heights[i]:
                 co+=1
         return co
