@@ -9,7 +9,6 @@ class Solution(object):
         dic={}
         l1=s1.split()
         l2=s2.split()
-        print(l1)
         for x in l1:
             if x in dic:
                 dic[x]+=1
