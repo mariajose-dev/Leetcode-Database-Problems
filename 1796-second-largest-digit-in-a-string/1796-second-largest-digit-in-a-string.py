@@ -6,13 +6,11 @@ class Solution(object):
         """
         lis=[]
         for x in s:
-            if x in "1234567890":
-                if int(x) in lis:
-                    continue
-                else:
+            if x.isdigit():
+                if int(x) not in lis:
                     lis.append(int(x))
         lis.sort()
-        if len(lis)>1:
-            return lis[-2] 
-        else:
+        if len(lis)< 2:
             return -1
+        
+        return lis[-2]
