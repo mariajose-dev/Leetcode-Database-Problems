@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        lis=[]
+        set1=set()
         for x in s:
             if x.isdigit():
-                if int(x) not in lis:
-                    lis.append(int(x))
+                set1.add(int(x))
+        lis=list(set1)
         lis.sort()
         if len(lis)< 2:
             return -1
