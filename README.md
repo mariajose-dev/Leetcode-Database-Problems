@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0997-find-the-town-judge](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
@@ -451,5 +454,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
