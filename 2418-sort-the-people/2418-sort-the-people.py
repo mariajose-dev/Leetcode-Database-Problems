@@ -9,6 +9,6 @@ class Solution(object):
         for i in range(len(names)):
             dic[heights[i]]=names[i]
         lis=[]
-        for x in sorted(dic,reverse=True):
+        for x in sorted(dic):
             lis.append(dic[x])
-        return lis
+        return lis[::-1]
