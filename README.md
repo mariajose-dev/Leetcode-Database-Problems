@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
