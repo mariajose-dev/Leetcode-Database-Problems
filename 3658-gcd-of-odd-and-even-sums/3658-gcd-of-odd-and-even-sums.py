@@ -4,13 +4,10 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        sumOdd = n * n
-        sumEven = n * (n + 1)
-
-        gcd = 1
-
-        for i in range(1, sumOdd/2+1):
-            if sumOdd % i == 0 and sumEven % i == 0:
-                gcd = i
-
-        return gcd
+        a = n * n
+        b = n * (n + 1)
+        while(b!=0):
+            temp=b
+            b=a%b
+            a=temp
+        return a
