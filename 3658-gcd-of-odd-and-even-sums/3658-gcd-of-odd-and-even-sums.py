@@ -4,16 +4,13 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        sumodd=0
-        sumeven=0
-        for i in range(1,n+1):
-            if i%2==0:
-                sumeven+=i
-            else:
-                sumodd+=i
-        lis=[]
-        lim=max(sumodd,sumeven)
-        for x in range(1,lim+1):
-            if sumodd%x==0 and sumeven%x==0:
-                lis.append(i)
-        return max(lis)
+        sumOdd = n * n
+        sumEven = n * (n + 1)
+
+        gcd = 1
+
+        for i in range(1, sumOdd/2+1):
+            if sumOdd % i == 0 and sumEven % i == 0:
+                gcd = i
+
+        return gcd
