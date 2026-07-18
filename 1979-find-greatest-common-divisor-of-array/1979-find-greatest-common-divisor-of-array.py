@@ -4,10 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        small = min(nums)
-        large = max(nums)
-        lis = []
-        for i in range(1, small + 1):
-            if small % i == 0 and large % i == 0:
-                lis.append(i)
-        return max(lis)
+        a = min(nums)
+        b = max(nums)
+        while b!=0:
+            temp=b
+            b=a%b
+            a=temp
+        return a
