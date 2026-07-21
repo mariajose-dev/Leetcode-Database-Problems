@@ -6,8 +6,9 @@ class Solution(object):
         :rtype: List[bool]
         """
         ans_lis=[]
+        big=max(candies)
         for x in candies:
-            if x+extraCandies>=max(candies):
+            if x+extraCandies>=big:
                 ans_lis.append(True)
             else:
                 ans_lis.append(False)
