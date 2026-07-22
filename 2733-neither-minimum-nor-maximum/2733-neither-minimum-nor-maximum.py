@@ -4,8 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        lim=len(nums)
-        if (lim<=2):
+        if (len(nums)<=2):
             return -1
         else:
             nums.sort()
