@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-next-greater-node-in-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2105-watering-plants-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2105-watering-plants-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
