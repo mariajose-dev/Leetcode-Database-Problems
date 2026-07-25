@@ -6,8 +6,9 @@ class Solution(object):
         """
         num=str(n)
         prod=0
-        for i in range(len(num)):
-            for j in range(i+1,len(num)):
+        l=len(num)
+        for i in range(l):
+            for j in range(i+1,l):
                 prod=max(prod,int(num[i])*int(num[j]))
         return prod
         
