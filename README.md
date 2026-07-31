@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
