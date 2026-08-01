@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0819-most-common-word) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
