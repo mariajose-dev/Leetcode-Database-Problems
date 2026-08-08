@@ -4,7 +4,6 @@ class Solution(object):
         :type command: str
         :rtype: str
         """
-        st=[]
         ans=""
         for i in range(len(command)):
             if command[i]=='G':
