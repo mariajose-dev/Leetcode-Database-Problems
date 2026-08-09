@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1816-truncate-sentence) |
