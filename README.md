@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2105-watering-plants-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2105-watering-plants-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
