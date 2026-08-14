@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3174-clear-digits) |
