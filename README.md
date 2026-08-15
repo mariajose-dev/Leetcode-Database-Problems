@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
