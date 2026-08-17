@@ -4,20 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        set1=set(nums)
         n=len(nums)
-        dic={}
-        ans=[]
-        for x in nums:
-            if x not in dic:
-                dic[x]=1
-            else:
-                ans.append(x)
-        
-        num_set=set(nums)
+        Natural_sum=n*(n+1)//2
+        sum_set1=sum(set1)
+        actual_sum=sum(nums)
 
-        for x in range(1,n+1):
-            if x not in nums:
-                ans.append(x)
-        return ans
+        duplicate = actual_sum - sum_set1
+        missing = Natural_sum - sum_set1
+        
+        return [duplicate, missing]
+
+
+
 
         
