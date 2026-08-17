@@ -11,7 +11,6 @@ class Solution(object):
             if x not in dic:
                 dic[x]=1
             else:
-                dic[x]+=1
                 ans.append(x)
         
         num_set=set(nums)
