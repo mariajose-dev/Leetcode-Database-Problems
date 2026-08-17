@@ -4,7 +4,4 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        if n%2==0:
-            return True
-        else:
-            return False
+        return (n%2==0)
