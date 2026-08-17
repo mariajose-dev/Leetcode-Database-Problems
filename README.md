@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [2126-destroying-asteroids](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
