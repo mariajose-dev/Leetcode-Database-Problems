@@ -14,15 +14,14 @@ class Solution(object):
         for x in dic:
             if dic[x]==2:
                 lis.append(x)
+                
         if len(lis)<1:
             return 0
         if len(lis)==1:
             return lis[0]
         if len(lis)>1:
             res=lis[0]
-            for i in range(len(lis)):
-                if i==0:
-                    continue
+            for i in range(1,len(lis)):
                 res^=lis[i]
             return res
 
