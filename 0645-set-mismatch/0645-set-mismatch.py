@@ -12,12 +12,9 @@ class Solution(object):
                 dic[x]=1
             else:
                 dic[x]+=1
+                ans.append(x)
         
         num_set=set(nums)
-
-        for i in dic:
-            if dic[i]>1:
-                ans.append(i)
 
         for x in range(1,n+1):
             if x not in nums:
