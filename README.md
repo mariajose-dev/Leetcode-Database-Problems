@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
@@ -622,4 +624,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
