@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1652-defuse-the-bomb](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Stack
 |  |
