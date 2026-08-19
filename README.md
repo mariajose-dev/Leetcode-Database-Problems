@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -670,4 +672,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
