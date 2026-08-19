@@ -10,18 +10,14 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        lis = []
-
-        def solve(node):
-            if node is None:
-                return
-
-            lis.append(node.val)
-            solve(node.left)
-            solve(node.right)
-
-        solve(root)
-
-        return lis
+        ret=[]
+        stack=[root]
+        while stack:
+            node=stack.pop()
+            if node:
+                ret.append(node.val)
+                stack.append(node.right)
+                stack.append(node.left)
+        return ret
 
         
