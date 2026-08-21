@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
