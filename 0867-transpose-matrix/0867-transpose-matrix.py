@@ -6,7 +6,9 @@ class Solution(object):
         """
         m = len(matrix)
         n = len(matrix[0])
-        mat = [[0] * m for i in range(n)]
+        mat = []
+        for i in range(n):
+            mat.append([0] * m)
         for i in range(0,m):
             for j in range(0,n):
                 mat[j][i]=matrix[i][j]
