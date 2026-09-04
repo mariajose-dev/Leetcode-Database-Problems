@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
+| [3903-smallest-stable-index-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -714,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
