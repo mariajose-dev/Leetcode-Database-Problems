@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1528-shuffle-string) |
