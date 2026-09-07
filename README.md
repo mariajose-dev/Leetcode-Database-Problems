@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1528-shuffle-string) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mariajose-dev/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
